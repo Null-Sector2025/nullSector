@@ -14,7 +14,7 @@ nullSector 是一个先进的Root检测和环境隐藏工具，提供全面的Ro
 
 ## 安装
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/nullSector/main/install.sh | bash
+curl -sSL "https://raw.githubusercontent.com/Null-Sector2025/nullSector/main/install.sh" | bash
 ##使用
 nullSector detect          # Root检测
 nullSector hide [包名]     # 隐藏环境
